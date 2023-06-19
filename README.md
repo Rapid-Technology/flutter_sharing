@@ -1,6 +1,6 @@
 # Flutter Share Text, Link & Image
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/Gy1by7rKdME/maxresdefault.jpg)](https://www.youtube.com/watch?v=Gy1by7rKdME)
 
 ## Getting Started
 
