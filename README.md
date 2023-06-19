@@ -1,4 +1,4 @@
-# flutter_sharing
+# Flutter Share Text, Link & Image
 
 A new Flutter project.
 
